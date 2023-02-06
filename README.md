@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya Prakash</h1>
-<h3 align="center">Hi there!I'm a web developer with a passion for learning new technologies. When I'm not coding, you can find me binge-watching my favorite show or listening to music.</h3>
+<h3 align="center">Hi there! I'm a web developer with a passion for learning new technologies. When I'm not coding, you can find me binge-watching my favorite show or listening to music.</h3>
 
 <p align="left"> <a href="https://twitter.com/suryaaprakash78" target="blank"><img src="https://img.shields.io/twitter/follow/suryaaprakash78?logo=twitter&style=for-the-badge" alt="suryaaprakash78" /></a> </p>
 
