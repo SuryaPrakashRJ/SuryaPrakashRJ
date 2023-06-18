@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/suryaaprakash78" target="blank"><img src="https://img.shields.io/twitter/follow/suryaaprakash78?logo=twitter&style=for-the-badge" alt="suryaaprakash78" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs, JavaScript**
+- 🌱 I’m currently learning **NextJs and TypeScript**
 
-- 💬 Ask me about **CSS, Tailwind, BootStrap**
+- 💬 Ask me about **ReactJS, Tailwind**
 
 - 📫 How to reach me **suryaaprakashrj@gmail.com**
 
-- ⚡ Fun fact **Tatakae!**
+- ⚡ Don't forget to **Tatakae!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
