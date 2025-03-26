@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/suryaaprakash78" target="blank"><img src="https://img.shields.io/twitter/follow/suryaaprakash78?logo=twitter&style=for-the-badge" alt="suryaaprakash78" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs and TypeScript**
-
-- 💬 Ask me about **ReactJS, Tailwind**
+- 💬 Ask me about **NextJS, Tailwind**
 
 - 📫 How to reach me **suryaaprakashrj@gmail.com**
 
